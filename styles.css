@@ -1,0 +1,189 @@
+/* TAG SELECTORS STARTS */
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  border: dotted grey 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+a {
+  color: #FFFFFF;
+  font-family: 'Montserrat' sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+/* TAG SELECTORS ENDS */
+/* CLASS SELECTORS STARTS*/
+
+.tab {
+  position:relative;
+  left:199px;
+}
+
+
+.top-container {
+  background-color: #E4F9F5;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.skills-description {
+  font-weight: 200;
+  font-size: 110%;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 40px;
+  right: 300px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  top: 400px;
+  left: 250px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.code-img {
+  width: 25%;
+  margin-right: 30px;
+  float: left;
+}
+
+.chilli-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+  position: relative;
+  bottom: 20px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+
+.profile-pic {
+  width: 12%;
+  margin-top: 5%;
+}
+
+.btn {
+  background: #11CDD4;
+  background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+  background-image: linear-gradient(to bottom, #11CDD4, #11999E);
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+  color: #FFFFFF;
+  font-family: Open 'Montserrat', sans-serif;
+  font-size: 15px;
+  padding: 15px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.btn:hover {
+  border: solid #337FED 0px;
+  background: #30E3CB;
+  background-image: -webkit-linear-gradient(top, #30E3CB, #3D94F6);
+  background-image: -moz-linear-gradient(top, #30E3CB, #3D94F6);
+  background-image: -ms-linear-gradient(top, #30E3CB, #3D94F6);
+  background-image: -o-linear-gradient(top, #30E3CB, #3D94F6);
+  background-image: linear-gradient(to bottom, #30E3CB, #3D94F6);
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+  text-decoration: none;
+}
+
+
+.linkedin {
+  width: 24px;
+  display: inline-block;
+  position: relative;
+  left: 52px;
+  bottom: 20px;
+}
+
+
+.github {
+  width: 25px;
+  display: inline-block;
+  position: relative;
+  left: 45px;
+  bottom: 20px;
+}
+
+.copyright {
+  color: #EAF6F6;
+  margin: 15px;
+  padding: 20px 0;
+  display: block;
+}
+
+
+/* CLASS SELECTORS ENDS */
